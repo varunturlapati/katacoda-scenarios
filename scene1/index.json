@@ -24,7 +24,7 @@
       "host01": [
         {
           "file": "size_int.go",
-          "target": "/usr/local/bin",
+          "target": "./",
           "chmod": "+x"
         }
       ]
