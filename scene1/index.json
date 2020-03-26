@@ -24,7 +24,12 @@
       "host01": [
         {
           "file": "size_int.go",
-          "target": "./",
+          "target": "~/",
+          "chmod": "+x"
+        },
+        {
+          "file": "size_int.go",
+          "target": ".",
           "chmod": "+x"
         }
       ]
